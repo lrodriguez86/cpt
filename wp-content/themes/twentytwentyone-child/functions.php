@@ -1,5 +1,5 @@
 <?php
-/* Scripts y estilos del tema principal */
+/* Scripts y estilos del tema principal. */
    
 function twentytwentyone_styles() {
 	wp_enqueue_style( 'child-style', get_stylesheet_uri(),

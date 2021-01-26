@@ -3,7 +3,7 @@
 Plugin Name: Tipos de contenido
 Description: Plugin especifico para tipos de contenido personalizados
 */
-/* Agrega código a partir de la siguiente linea */
+/* Agregar código a partir de la siguiente linea */
   
 // Funcion crear el tipo de contenido Serie
 function create_posttype() {
